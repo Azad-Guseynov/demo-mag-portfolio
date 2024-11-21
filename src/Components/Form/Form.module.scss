@@ -1,0 +1,39 @@
+.container {
+  width: 602px;
+  height: 270px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+
+  p {
+    text-align: center;
+    font-size: 36px;
+    color: #000;
+    margin-bottom: 50px;
+  }
+
+  input {
+    width: 600px;
+    height: 50px;
+    background: transparent;
+    border: 1px #252525 solid;
+    margin-bottom: 20px;
+  }
+
+  input::placeholder {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  button {
+    width: 602px;
+    height: 50px;
+    background: #e0bea2;
+    margin-bottom: 20px;
+  }
+
+  .title {
+    width: 600px;
+    height: 38px;
+    font-size: 16px;
+  }
+}

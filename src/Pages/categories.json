@@ -1,0 +1,142 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "/image/Categories/01.png",
+    "title": "Белая куртка",
+    "sizes": [26, 30, 40],
+    "price": 803
+  },
+  {
+    "id": 1,
+    "imageUrl": "/public/image/Categories/02.png",
+    "title": "Синее пальто",
+    "sizes": [26, 40],
+    "price": 803
+  },
+  {
+    "id": 2,
+    "imageUrl": "/public/image/Categories/03.png",
+    "title": "Бежевая шуба",
+    "sizes": [26, 40],
+    "price": 295
+  },
+  {
+    "id": 3,
+    "imageUrl": "/public/image/Categories/04.png",
+    "title": "Синяя парка",
+    "sizes": [26, 30, 40],
+    "price": 275
+  },
+  {
+    "id": 4,
+    "imageUrl": "/image/Categories/01.png",
+    "title": "Белая куртка",
+    "sizes": [26, 30, 40],
+    "price": 803
+  },
+  {
+    "id": 5,
+    "imageUrl": "/public/image/Categories/02.png",
+    "title": "Синее пальто",
+    "sizes": [26, 40],
+    "price": 803
+  },
+  {
+    "id": 6,
+    "imageUrl": "/public/image/Categories/03.png",
+    "title": "Бежевая шуба",
+    "sizes": [26, 40],
+    "price": 295
+  },
+  {
+    "id": 7,
+    "imageUrl": "/public/image/Categories/04.png",
+    "title": "Синяя парка",
+    "sizes": [26, 30, 40],
+    "price": 275
+  },
+  {
+    "id": 8,
+    "imageUrl": "/image/Categories/01.png",
+    "title": "Белая куртка",
+    "sizes": [26, 30, 40],
+    "price": 803
+  },
+  {
+    "id": 9,
+    "imageUrl": "/public/image/Categories/02.png",
+    "title": "Синее пальто",
+    "sizes": [26, 40],
+    "price": 803
+  },
+  {
+    "id": 10,
+    "imageUrl": "/public/image/Categories/03.png",
+    "title": "Бежевая шуба",
+    "sizes": [26, 40],
+    "price": 295
+  },
+  {
+    "id": 11,
+    "imageUrl": "/public/image/Categories/04.png",
+    "title": "Синяя парка",
+    "sizes": [26, 30, 40],
+    "price": 275
+  },
+  {
+    "id": 12,
+    "imageUrl": "/image/Categories/01.png",
+    "title": "Белая куртка",
+    "sizes": [26, 30, 40],
+    "price": 803
+  },
+  {
+    "id": 13,
+    "imageUrl": "/public/image/Categories/02.png",
+    "title": "Синее пальто",
+    "sizes": [26, 40],
+    "price": 803
+  },
+  {
+    "id": 14,
+    "imageUrl": "/public/image/Categories/03.png",
+    "title": "Бежевая шуба",
+    "sizes": [26, 40],
+    "price": 295
+  },
+  {
+    "id": 15,
+    "imageUrl": "/public/image/Categories/04.png",
+    "title": "Синяя парка",
+    "sizes": [26, 30, 40],
+    "price": 275
+  },
+  {
+    "id": 16,
+    "imageUrl": "/image/Categories/01.png",
+    "title": "Белая куртка",
+    "sizes": [26, 30, 40],
+    "price": 803
+  },
+  {
+    "id": 17,
+    "imageUrl": "/public/image/Categories/02.png",
+    "title": "Синее пальто",
+    "sizes": [26, 40],
+    "price": 803
+  },
+  {
+    "id": 18,
+    "imageUrl": "/public/image/Categories/03.png",
+    "title": "Бежевая шуба",
+    "sizes": [26, 40],
+    "price": 295
+  },
+  {
+    "id": 19,
+    "imageUrl": "/public/image/Categories/04.png",
+    "title": "Синяя парка",
+    "sizes": [26, 30, 40],
+    "price": 275
+  }
+]

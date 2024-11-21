@@ -1,0 +1,62 @@
+.container {
+  width: 1440px;
+  height: 110px;
+  position: relative;
+  margin-bottom: 100px;
+  background-color: #a39898;
+  border-bottom-left-radius: 23px;
+  border-bottom-right-radius: 23px;
+  text-align: center;
+
+  img {
+    margin-top: 24px;
+  }
+
+  .links {
+    display: flex;
+    gap: 24px;
+    position: absolute;
+    top: 34px;
+    left: 150px;
+
+    .button {
+      background-image: url(/public/image/icons/burger.svg);
+      width: 34px;
+      height: 24px;
+      margin-right: 80px;
+    }
+
+    a {
+      font-size: 18px;
+      text-decoration: none;
+      color: #252525;
+      margin-right: 28px;
+    }
+  }
+
+  .main {
+    display: flex;
+    position: absolute;
+    right: 105px;
+    top: 20px;
+
+    .val {
+      font-size: 18px;
+    }
+
+    .buttons {
+      button {
+        margin-left: 30px;
+      }
+
+      .buttonSertch {
+        margin-left: 50px;
+      }
+    }
+  }
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
